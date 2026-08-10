@@ -1,0 +1,7 @@
+https://pyspectral.readthedocs.io/en/master/index.html
+
+http://markkness.net/colorpy/ColorPy.html
+
+http://www.cvrl.org/
+
+https://graphics.stanford.edu/wikis/cs348b-07/NicolasBenitez/FinalProject
